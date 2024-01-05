@@ -4,7 +4,7 @@
 
 DeskTop Business Edition is a completely free and simple collection of business applications including a text editor and spreadsheet maker.
 
-- UPDATE: As of 04/01/2024, DeskTop will no longer be remaining open source on GitHub.
+- UPDATE: As of 04/01/2024, DeskTop Business Edition will no longer be remaining open source on GitHub.
 
 ## License
 
