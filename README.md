@@ -1,4 +1,4 @@
-# DeskTop
+# DeskTop Business Edition
 
 ## About
 
