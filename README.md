@@ -8,4 +8,4 @@ DeskTop Business Edition is a completely free and simple collection of business 
 
 ## License
 
-This product is licensed under the [Apache License 2.0](https://github.com/TouchScreen-BlueTooth-Machines/DeskTop/blob/main/LICENSE). © TouchScreen BlueTooth Machines Inc. 1986-2024. All rights reserved.
+This product is licensed under the [Apache License 2.0](https://github.com/TouchScreen-BlueTooth-Machines/DeskTop-Business-Edition/blob/main/LICENSE). © TouchScreen BlueTooth Machines Inc. 1986-2024. All rights reserved.
